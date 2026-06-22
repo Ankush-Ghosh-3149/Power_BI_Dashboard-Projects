@@ -1,6 +1,6 @@
 # Demand Forecasting and Operational Planning Dashboard
 
-![Dashboard Home Page](/Images/P1/P1 Image 1.png)
+![Dashboard Home Page](/Images/P1/P1%20Image%201.png)
 
 [Download PowerBI Project file](https://drive.google.com/file/d/1bAeD7OBQLsVngSLBdqSO_W41y72qaCUw/view?usp=sharing)
 
