@@ -1,4 +1,4 @@
-# Demand Forecasting and Operational Planning Dashboard
+# Cyclistic Bike Share Customer Analysis Dashboard
 
 ![Dashboard Home Page](/Images/P1/P1%20Image%201.png)
 
@@ -14,6 +14,7 @@ The primary business objective is to understand the behavioral differences betwe
 
 ## Skills Showcased
 
+<<<<<<< HEAD
 - ⚙️ **Data Transformation (ETL) with Power Query:** Cleaned, consolidated, and standardized multi-source bike-sharing datasets by handling missing values, validating ride records, enforcing data types, and engineering analytical features for reporting.
 
 - 📱 **DAX Measures & KPI Development:** Developed calculated measures and business KPIs to evaluate ridership performance, customer behavior, ride duration trends, station utilization, and membership insights.
@@ -38,6 +39,30 @@ The primary business objective is to understand the behavioral differences betwe
   - **Drill-Through Analysis:** Allowed users to move from high-level performance metrics to detailed customer, station, and ride-level insights for deeper investigation.
 
 - 🎨📎📐 **Business Intelligence & Customer Analytics:** Applied analytical techniques to uncover rider behavior patterns, identify membership conversion opportunities, evaluate usage trends, and support data-driven business decision-making. 
+=======
+- ⚙️ **Data Transformation (ETL) with Power Query:** Cleaned, standardized, and prepared raw sales, demand, inventory, and forecasting data by handling missing values, correcting data types, and creating analytical attributes for reporting.
+
+- 📱 **DAX Measures & KPI Development:** Created custom measures and business KPIs to evaluate **forecast accuracy, inventory efficiency, demand variability, stock availability, operational impact, and revenue performance.**
+
+- 📊 **Advanced Data Visualization:** Utilized **Column, Bar, Line, Clustered Column & Line, Scatter, Treemap, Pie, Box & Whisker, Dot Plot, Violin Plot,** and **Matrix Visuals** to uncover demand patterns, forecast behavior, operational risks, and performance trends.
+
+- 📈 **KPI Monitoring & Performance Tracking:** Designed **KPI Cards, Scorecards,** and **Summary Tables** to monitor key operational metrics such as units sold, inventory levels, forecast error, stockout risk, and business impact.
+
+- 🧠 **Decision Intelligence & Business Analytics:** Developed analytical frameworks and recommendation-driven insights to **translate** forecast and inventory findings into **actionable operational decisions**.
+
+- 🎨 **Dashboard Design & Storytelling:** Designed a multi-page, consulting-style analytics solution with **consistent visual encoding, intuitive navigation,** and **structured storytelling** from **overview** to **root-cause analysis**.
+
+- 🖱️ **Interactive Reporting & User Experience:**
+  - **Slicers:** Enabled dynamic filtering across regions, products, years, and operational dimensions.
+
+  - **Buttons, Navigation & Bookmarks:** Implemented seamless page navigation and guided user workflows.
+
+  - **Drill-Through Analysis:** Allowed users to move from high-level performance indicators to detailed operational and regional insights.
+
+  - **Cross-Visual Interactivity:** Enabled interactive exploration of forecast performance, inventory health, and demand drivers across the dashboard.
+
+- 🖱️ **Forecasting & Operations Analytics:** Analyzed demand trends, forecast deviations, inventory allocation effectiveness, and operational impacts to identify optimization opportunities and support data-driven planning.
+>>>>>>> c7fc91e2fc64e8028dd5b70e2bcab6cb0a8679a1
 
 ## Dashboard Overview
 
@@ -97,6 +122,10 @@ The project includes a complete analytics workflow consisting of:
 
 ## Conclusion
 
+<<<<<<< HEAD
 This dashboard demonstrates how Power BI can transform raw bike-sharing data into a comprehensive customer analytics and decision-support platform. Through data cleaning, feature engineering, KPI development, customer segmentation, and interactive visualization, I gained practical experience in customer behavior analysis, business intelligence, data quality management, and storytelling with data.
 
 The project provided valuable insights into how analytical techniques can be used to understand customer preferences, identify usage trends, optimize operational decisions, and support strategic initiatives aimed at increasing customer retention and membership growth. By converting transactional ride data into actionable business intelligence, the dashboard helps bridge the gap between customer behavior and data-driven decision-making.
+=======
+This dashboard demonstrates how Power BI can transform raw demand forecasting and inventory data into a comprehensive decision-support system for supply chain management. Through data transformation, KPI engineering, advanced analytics, and interactive reporting, I gained practical experience in forecasting analysis, inventory optimization, operational performance evaluation, and business storytelling. The project helped me understand how analytical insights can be translated into actionable decisions, enabling organizations to improve forecast accuracy, reduce operational risks, optimize inventory allocation, and enhance overall supply chain efficiency.
+>>>>>>> c7fc91e2fc64e8028dd5b70e2bcab6cb0a8679a1
