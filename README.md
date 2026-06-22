@@ -10,23 +10,28 @@ This project was designed to bridge the gap between **forecasting accuracy and o
 
 ## Skills Showcased
 
-- ⚙️ **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
+- ⚙️ **Data Transformation (ETL) with Power Query:** Cleaned, standardized, and prepared raw sales, demand, inventory, and forecasting data by handling missing values, correcting data types, and creating analytical attributes for reporting.
 
-- 📱 **Implicit Measures:** Formulated measures to derive key insights and KPIs like Median Yearly Salary and Job Count`.
+- 📱 **DAX Measures & KPI Development:** Created custom measures and business KPIs to evaluate **forecast accuracy, inventory efficiency, demand variability, stock availability, operational impact, and revenue performance.**
 
-- 📊 **Core Charts:** Utilized **Column, Bar, Line,**
-and **Box Charts** to compare job counts and track trends over time.
+- 📊 **Advanced Data Visualization:** Utilized **Column, Bar, Line, Clustered Column & Line, Scatter, Treemap, Pie, Box & Whisker, Dot Plot, Violin Plot,** and **Matrix Visuals** to uncover demand patterns, forecast behavior, operational risks, and performance trends.
 
-- 📈 **KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
+- 📈 **KPI Monitoring & Performance Tracking:** Designed **KPI Cards, Scorecards,** and **Summary Tables** to monitor key operational metrics such as units sold, inventory levels, forecast error, stockout risk, and business impact.
 
-- 🎨 **Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
+- 🧠 **Decision Intelligence & Business Analytics:** Developed analytical frameworks and recommendation-driven insights to **translate** forecast and inventory findings into **actionable operational decisions**.
 
-- 🖱️ **Interactive Reporting:**
-  - **Slicers:** To dynamically filter the report by Job Title.
+- 🎨 **Dashboard Design & Storytelling:** Designed a multi-page, consulting-style analytics solution with **consistent visual encoding, intuitive navigation,** and **structured storytelling** from **overview** to **root-cause analysis**.
 
-  - **Buttons & Bookmarks:** To create a seamless navigation experience.
+- 🖱️ **Interactive Reporting & User Experience:**
+  - **Slicers:** Enabled dynamic filtering across regions, products, years, and operational dimensions.
 
-  - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+  - **Buttons, Navigation & Bookmarks:** Implemented seamless page navigation and guided user workflows.
+
+  - **Drill-Through Analysis:** Allowed users to move from high-level performance indicators to detailed operational and regional insights.
+
+  - **Cross-Visual Interactivity:** Enabled interactive exploration of forecast performance, inventory health, and demand drivers across the dashboard.
+
+- 🖱️ **Forecasting & Operations Analytics:** Analyzed demand trends, forecast deviations, inventory allocation effectiveness, and operational impacts to identify optimization opportunities and support data-driven planning.
 
 ## Dashboard Overview
 
