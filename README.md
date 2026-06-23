@@ -4,6 +4,9 @@
 
 [Download PowerBI Project file](https://drive.google.com/file/d/1bAeD7OBQLsVngSLBdqSO_W41y72qaCUw/view?usp=sharing)
 
+[Check Out the Python Code](https://colab.research.google.com/drive/141lSeZnn7SJR80IQoXcEK_4PiiRLEF-G?usp=sharing)
+
+[Download the Data CSV files](https://drive.google.com/drive/folders/1-3d_zrlRJVd9iexuIKDZQcbDKsI4LdZ-?usp=sharing)
 
 ## Introduction
 
