@@ -12,6 +12,46 @@
 
 This project was designed to bridge the gap between **forecasting accuracy and operational execution by combining demand analytics, inventory performance, risk assessment, and actionable decision intelligence** within a single interactive Power BI solution.
 
+## Business Problem
+
+Organizations frequently struggle to balance customer demand with inventory availability. Inaccurate demand forecasts can lead to stockouts, excess inventory, lost sales, increased holding costs, inefficient resource allocation, and reduced service levels.
+
+This project was developed to evaluate forecasting performance, understand its operational impact across regions and product categories, and translate analytical findings into actionable decision intelligence. By combining demand forecasting analytics, inventory assessment, operational performance evaluation, and recommendation frameworks, the dashboard supports data-driven planning and supply chain optimization.
+
+## Tools & Technologies
+
+- Data Processing & Analytics
+  - Python
+  - Pandas
+  - NumPy
+  - Google Colab
+
+- Business Intelligence & Data Modeling
+  - Power BI
+  - Power Query
+  - DAX
+- Version Control & Portfolio Management
+  - Git
+  - GitHub
+
+## Project Workflow
+
+Raw Sales & Inventory Data
+➡️
+Data Cleaning & Transformation
+➡️
+Feature Engineering
+➡️
+Forecast Performance Analysis
+➡️
+Inventory & Operations Analysis
+➡️
+Decision Intelligence Framework
+➡️
+Interactive Power BI Dashboard
+➡️
+Business Recommendations
+
 ## Skills Showcased
 
 - ⚙️ **Data Preparation & Transformation (ETL) with Power Query:** Cleaned, consolidated, and standardized multi-source bike-sharing datasets by handling missing values, validating ride records, enforcing data types, and engineering analytical features for reporting.
@@ -37,6 +77,36 @@ This project was designed to bridge the gap between **forecasting accuracy and o
   - **Drill-Through Analysis:** Allowed users to move from high-level performance metrics to detailed customer, station, and ride-level insights for deeper investigation.
 
 -🚲 **Business Intelligence & Customer Analytics:** Applied analytical techniques to uncover rider behavior patterns, identify membership conversion opportunities, evaluate usage trends, and support data-driven business decision-making.
+
+## Data Preparation & Analytics Process
+
+The project incorporates a complete analytics workflow designed to transform raw operational data into actionable business intelligence:
+
+- Multi-source data ingestion and consolidation
+- Data auditing and quality assessment
+- Missing value identification and treatment
+- Duplicate record validation and removal
+- Data type standardization and consistency checks
+- Feature engineering for forecasting and inventory analysis
+- Demand trend and seasonality assessment
+- Forecast accuracy and error evaluation
+- Inventory performance and operational impact analysis
+- KPI generation and executive reporting
+- Decision intelligence framework development
+- Interactive dashboard design and visualization
+
+
+## Key Business Questions Addressed
+- How accurately does forecasted demand align with actual sales performance?
+- Which regions contribute most significantly to overall demand?
+- Where do forecast deviations create operational inefficiencies?
+- Which regions and product categories exhibit the highest demand variability?
+- How do inventory levels compare against actual demand requirements?
+- What is the financial and operational impact of forecast inaccuracies?
+- Which areas are most exposed to stockout and overstock risks?
+- How can inventory allocation be optimized to improve service levels?
+- What actions should stakeholders prioritize to improve planning effectiveness?
+- How can forecasting insights be translated into operational and strategic decisions?
 
 ## Dashboard Overview
 
@@ -82,6 +152,91 @@ This page provides a consolidated assessment of overall supply chain health by t
 
 This page enables detailed investigation of specific regions, product categories, and time periods through interactive drill-through analysis. It provides a contextual view of demand trends, forecast performance, error distributions, and forecast gaps to uncover the root causes behind operational outcomes. By moving from summary insights to granular data, stakeholders can perform targeted analysis and make more informed decisions.
 
+## Key Insights
+
+- ### Insight 1
+
+Forecast accuracy varies significantly across regions, indicating opportunities to improve planning consistency and forecasting effectiveness.
+
+- ### Insight 2
+
+Certain regions experience recurring inventory imbalances despite relatively stable demand patterns, suggesting inefficiencies in inventory allocation.
+
+- ### Insight 3
+
+Higher forecast errors are strongly associated with increased operational risks, including stockouts, excess inventory, lost sales, and elevated carrying costs.
+
+- ### Insight 4
+
+Demand variability is concentrated within specific region-category combinations, highlighting the need for targeted forecasting and replenishment strategies.
+
+- ### Insight 5
+
+Better alignment between forecasting outputs and inventory decisions could improve service levels while simultaneously reducing inventory-related costs.
+
+## Business Recommendations
+
+- ### Recommendation 1 — Forecast Model Refinement
+
+Prioritize forecasting model improvements in regions exhibiting persistent forecast deviations and elevated error rates.
+
+Expected Benefit: Improved forecast reliability and planning accuracy.
+
+- ### Recommendation 2 — Inventory Rebalancing
+
+Implement proactive inventory redistribution strategies for regions experiencing recurring overstock and understock conditions.
+
+Expected Benefit: Reduced inventory costs and improved product availability.
+
+- ### Recommendation 3 — Operational Risk Monitoring
+
+Establish monitoring mechanisms based on forecast-error thresholds, inventory health indicators, and service-level KPIs.
+
+Expected Benefit: Earlier detection of operational disruptions and faster corrective action.
+
+- ### Recommendation 4 — Analytics-Driven Planning
+
+Integrate forecasting, inventory, and operational intelligence into regular planning and decision-making processes.
+
+Expected Benefit: Better resource allocation and more informed strategic decisions.
+
+- ### Recommendation 5 — Continuous Performance Review
+
+Develop a structured performance-review framework to continuously assess forecasting outcomes and operational effectiveness.
+
+Expected Benefit: Sustainable improvement in supply chain performance and responsiveness.
+
+## Repository Assets
+
+This repository contains all major project deliverables required to reproduce, review, and evaluate the analysis:
+
+- Power BI Dashboard (.pbix)
+- Python ETL & Data Preparation Notebook
+- Cleaned Analytical Datasets
+- Dashboard Screenshots
+- Project Documentation
+- Business Insights & Recommendations
+- Supporting Data Files
+- GitHub Portfolio Repository
+
+## Future Improvements
+
+Potential future enhancements include:
+
+- Integration of Machine Learning-based forecasting models
+- Real-time demand and inventory monitoring
+- Automated alert systems for forecast deviations
+- Predictive inventory optimization frameworks
+- Scenario planning and what-if analysis capabilities
+- Supply chain risk prediction and mitigation analytics
+- Advanced forecasting model comparison dashboards
+- Real-time operational performance tracking
+
+## Detailed Documentation
+
+For a comprehensive explanation of the project methodology, data preparation process, dashboard architecture, analytical approach, key findings, recommendations, and future roadmap, please refer to the accompanying Demand Forecasting Case Study Report (PDF) available in the Documentation section of this repository.
+
+The report provides a complete end-to-end walkthrough of the project, from raw data transformation to executive decision intelligence, and serves as the formal project documentation.
 
 ## Conclusion
 
